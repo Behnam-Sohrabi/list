@@ -1,5 +1,3 @@
 {
-  "server 1": "http://204.237.232.204:5000/updates",
-  "server 2": "http://104.237.232.204:5000/updates",
-  "server 3": "3",
+  "update server": "http://104.237.232.204:5000/updates",
 }
